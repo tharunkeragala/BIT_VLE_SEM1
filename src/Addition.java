@@ -38,6 +38,7 @@ public class Addition{
 		int age =70;
 		System.out.println("logical AND answer is " + (age > 18 && age < 60));
 
+		//Brackets are considered as if condition as below
 		int age1 =20;
 		char status = (age1 < 40) ? 'Y' : 'N';
 		System.out.println(status);			
