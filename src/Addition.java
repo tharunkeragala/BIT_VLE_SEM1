@@ -36,7 +36,7 @@ public class Addition{
 		System.out.println(num1 >= num2);
 
 		int age =70;
-		System.out.println("logical AND " + (age > 18 && age < 60));
+		System.out.println("logical AND answer is " + (age > 18 && age < 60));
 
 		int age1 =20;
 		char status = (age1 < 40) ? 'Y' : 'N';
