@@ -16,7 +16,6 @@ public class Addition{
 		System.out.println(sub);
 		System.out.println(mul);
 		System.out.println(div);
-		System.out.println(sum+sub+mul+div);
 
 		//Is equal to
 		System.out.println(num1 == num2);
