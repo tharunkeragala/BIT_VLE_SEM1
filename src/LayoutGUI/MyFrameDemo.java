@@ -1,3 +1,5 @@
+package LayoutGUI;
+
 import javax.swing.JFrame;
 
 class MyFrameDemo {
